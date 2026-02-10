@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oracle-signal-service"
+version = "1.0.0"
+description = "A self-contained service for transmitting analysis signals to an Ethereum-compatible blockchain via smart contracts."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Business Source License 1.1"}
+authors = [
+    {name = "Shivay Singh"}
+]
+dependencies = [
+    "fastapi>=0.104.0",
+    "uvicorn>=0.24.0",
+    "sqlalchemy>=2.0.0",
+    "pydantic>=2.0.0",
+    "web3>=6.0.0",
+    "redis>=5.0.0",
+]
+
+[project.scripts]
+oracle-monitor = "oracle_service.service:main"
+
+[tool.setuptools.packages.find]
+include = ["oracle_service*"]

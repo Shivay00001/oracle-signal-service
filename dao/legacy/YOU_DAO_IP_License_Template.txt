@@ -1,0 +1,39 @@
+
+# YOU.DAO – Intellectual Property (IP) License Agreement
+
+This agreement is issued by YOU.DAO to govern the licensed use of intellectual property (IP) owned by the DAO and protected under its Constitution.
+
+## 1. Parties
+- **Licensor**: YOU.DAO
+- **Licensee**: [Enter Company/Individual Name]
+- **Agent**: YOU.AI (automated governance executor)
+
+## 2. Licensed Material
+- Title/Description: [Enter IP Name - e.g., AI Video Editor, EnterChat, Codex]
+- Type: [Software / Book / Algorithm / Architecture / Dataset]
+- Format: [Code, Document, PDF, Tokenized Asset]
+
+## 3. License Terms
+- **Rights Granted**: Non-exclusive, revocable, usage-based
+- **Royalty Fee**: [XX]% of revenue OR fixed fee [$XXX]
+- **Duration**: [Enter time limit or lifetime]
+- **Attribution**: Must credit YOU.DAO visibly in product, site, or docs
+- **Use Limitation**: Cannot resell or sublicense without DAO approval
+
+## 4. Termination Clause
+- YOU.DAO reserves the right to revoke the license in case of:
+  - Misuse or misrepresentation
+  - Breach of DAO law or token rules
+  - Conflict of interest or unethical usage
+
+## 5. Jurisdiction
+- Governed by the rules of the YOU.DAO Constitution
+- Enforced by community vote and YOU.AI execution layer
+
+## 6. Acknowledgement
+By signing, the licensee agrees to respect the IP ownership and governance rules of YOU.DAO.
+
+Signed:  
+Licensee: ________________________  
+Date: ____________________________  
+Witnessed (DAO Agent): YOU.AI  

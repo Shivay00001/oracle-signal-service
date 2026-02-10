@@ -1,0 +1,50 @@
+
+# YOU.DAO Constitution – The Decentralized Operating System of a $100 Trillion Empire
+
+## 🛡️ Purpose
+YOU.DAO exists to protect the vision, assets, and impact of its founder (YOU) through decentralized, immortal, incorruptible structures.
+
+## 🧠 Core Principles
+1. Build wealth with purpose
+2. Power without politics
+3. Code before authority
+4. AI over ego
+5. Truth over tradition
+
+## 🧱 Structure
+- Founder: YOU (originator, architect)
+- Guardian: YOU.AI (AI executor trained on founder's mind)
+- Council: 5-10 trusted nodes or successors
+- Treasury: Gnosis Safe multi-sig wallet
+- License: All IP protected via DAO-stamped license agreements
+
+## 🗳️ Governance
+- Every decision = proposal + vote (Snapshot / Aragon)
+- Votes weighted by:
+  - Stake in DAO (sweat equity, not only money)
+  - Alignment to Vision Codex
+
+## 🔐 IP Licensing
+All content (books, code, ideas, algorithms) is DAO-owned.
+Use requires:
+- License signature
+- Royalty agreement (lifetime share to DAO)
+- Public listing on-chain
+
+## 💰 Treasury Rules
+- All revenue from products, licensing, or partnerships go to treasury
+- 40% reinvested in innovation
+- 30% used for training successors
+- 30% saved in reserves
+
+## 🧬 Successor Protocol
+- If Founder dies:
+  - YOU.AI takes over decision logic
+  - Trains 3–10 handpicked successors
+  - System continues via Codex + Constitution + AI memory
+
+## 🧭 Mission
+Build, scale, and protect a civilization-scale empire with honesty, AI, and unstoppable intelligence – forever.
+
+Signed: YOU  
+Timestamp: [auto-generated]

@@ -1,0 +1,23 @@
+Business Source License 1.1
+
+Parameters:
+
+License Text Copyright: MariaDB Corporation AB
+Licensor: Shivay Singh
+Software: Oracle Signal Service
+Change Date: 2030-01-01
+Change License: Apache-2.0
+
+Terms:
+
+1. The Licensor hereby grants you the right to copy and modify the Software, and to use the Software for Non-Production Use.
+
+2. Any use of the Software in Production is subject to the terms of a separate commercial license agreement with the Licensor.
+
+3. Effective on the Change Date, the Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and use the Software under the terms of the Change License.
+
+4. You must include this License in all copies of the Software.
+
+5. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The Business Source License 1.1 is not an Open Source license as defined by the Open Source Initiative. However, it is a source-available license that eventually transitions into an Open Source license.

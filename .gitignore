@@ -12,3 +12,7 @@ build/
 .vscode/
 *.log
 node_modules/
+
+# runtime databases
+*.db
+*.sqlite3

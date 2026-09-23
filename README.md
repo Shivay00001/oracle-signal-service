@@ -79,20 +79,26 @@ export DEBUG=false
 
 ## Usage
 
-Run the signal monitor:
+Run the API server (production entry point, boots in simulation mode without
+blockchain credentials):
+
+```bash
+cp .env.example .env   # optional — all settings have safe defaults
+uvicorn main:app --host 0.0.0.0 --port 8000
+# or: python main.py
+```
+
+Docker / Render:
+
+```bash
+docker build -t oracle-signal-service .
+docker run -p 8000:8000 oracle-signal-service
+```
+
+Run the signal monitor (polls the DB and transmits to chain when enabled):
 
 ```bash
 python -m oracle_service.service
-```
-
-Run the API server (integrate with FastAPI app):
-
-```python
-from fastapi import FastAPI
-from oracle_service.routes import router
-
-app = FastAPI()
-app.include_router(router, prefix="/oracle")
 ```
 
 ## Smart Contracts

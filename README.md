@@ -1,5 +1,7 @@
 # Oracle Service
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 A self-contained Python service for transmitting analysis signals to an Ethereum-compatible blockchain via smart contract interactions.
 
 ## What This Project Is
